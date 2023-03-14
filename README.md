@@ -23,3 +23,5 @@
     <a href="https://www.facebook.com/bartek.szymik.10" target="blank"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="bartosz.szymik" height="20" width="70" /></a>
     <a href="https://orcid.org/0000-0002-4346-4644" target="blank"><img align="left" alt="orcid" src="https://img.shields.io/badge/ORCID-brightgreen?&style=flat" alt="bartosz.szymik" height="20" width="60" /></a>
 </p>
+
+![Codewars](https://github.r2v.ch/codewars?BartekSzymik=dinifarb&theme=gradient)
