@@ -25,6 +25,7 @@
 </p>
 
 <h5 align="left">CodeWars</h5>
-  <p align="left">
+<p align="center" >
     ![Codewars](https://github.r2v.ch/codewars?user=BartekSzymik)
-  </p>
+</p>
+  
