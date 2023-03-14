@@ -26,5 +26,4 @@
 
 
 <h5 align="left">CodeWars</h5>
-  <p align="left">
 ![Codewars](https://github.r2v.ch/codewars?user=BartekSzymik)
