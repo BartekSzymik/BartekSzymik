@@ -24,4 +24,7 @@
     <a href="https://orcid.org/0000-0002-4346-4644" target="blank"><img align="left" alt="orcid" src="https://img.shields.io/badge/ORCID-brightgreen?&style=flat" alt="bartosz.szymik" height="20" width="60" /></a>
 </p>
 
+
+<h5 align="left">CodeWars</h5>
+  <p align="left">
 ![Codewars](https://github.r2v.ch/codewars?user=BartekSzymik)
